@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mugisha7/hollysoft/static/js/main.e032c23a.chunk.js",
+    "main.js.map": "/mugisha7/hollysoft/static/js/main.e032c23a.chunk.js.map",
+    "runtime-main.js": "/mugisha7/hollysoft/static/js/runtime-main.25e19c01.js",
+    "runtime-main.js.map": "/mugisha7/hollysoft/static/js/runtime-main.25e19c01.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/mugisha7/hollysoft/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9e5020a5.chunk.js": "/mugisha7/hollysoft/static/js/2.9e5020a5.chunk.js",
+    "static/js/2.9e5020a5.chunk.js.map": "/mugisha7/hollysoft/static/js/2.9e5020a5.chunk.js.map",
+    "index.html": "/mugisha7/hollysoft/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/mugisha7/hollysoft/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.9e5020a5.chunk.js.LICENSE.txt": "/mugisha7/hollysoft/static/js/2.9e5020a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25e19c01.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9e5020a5.chunk.js",
+    "static/js/main.e032c23a.chunk.js"
+  ]
+}
