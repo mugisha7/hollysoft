@@ -7,12 +7,12 @@ import Login from './components/loginform';
 function App() {
   return (
     <div className="App">
-      <Navbar />
       <Br>
+         <Navbar />
         <S>
           <R path='/' exact />
-          <R exact path='/src/components/postform'  component={Post}/>
-        <R exact path='/src/components/loginform'  component={Login}/>
+          <R exact path='/postform'  component={Post}/>
+        <R exact path='/loginform'  component={Login}/>
         </S>
       </Br>
     </div>
